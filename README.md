@@ -1,5 +1,5 @@
 # M5Stack_Movie
-![Movie](doc/Movie.jpg)
+![Movie](doc/Movi.jpg)
 
 ## Prepare
 - [M5Stack](https://www.switch-science.com/catalog/3647/)  : Switch Science
